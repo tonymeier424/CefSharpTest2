@@ -1,0 +1,8 @@
+[0613/111520:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0613/111520:WARNING:channel.cc(359)] RawChannel write error
+[0613/114022:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0613/114022:WARNING:channel.cc(359)] RawChannel write error
+[0613/114022:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0613/114022:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0613/114022:WARNING:channel.cc(359)] RawChannel write error
+[0613/114022:ERROR:ipc_channel_win.cc(217)] pipe error: 109
